@@ -1,7 +1,7 @@
 const fs = require("fs");
 let os = require("os")
 const fetch = require('node-fetch');
-const url = `https://discord.com/api/webhooks/996537581669978122/VSlZHI0bqem08kyVdem1ouqtZAFWUEAEKBCz5LKtlFFSAFg9l-XE9Tyla-34ey3DVqUm`;
+const url = `ton webhook ici`;
 
 
 
