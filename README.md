@@ -1,2 +1,2 @@
 # Discord-Token-Grabber
-Discord Token Stealer By JAZO
+Discord Token Stealer By kL
